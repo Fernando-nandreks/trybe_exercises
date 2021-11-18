@@ -2,3 +2,4 @@ Para que possamos versionar alterações feitas no código é preciso sempre seg
 Adicionar ( add )
 Comitar ( commit -m "mensagem" )
 Os comandos ficam da seguinte forma:
+É muito divertido quando seu cérebro começa a guardar as informações que você está aprendendo. Deus é incrível... por  fazer esse ser chamado homem com a capacidade incrível. 

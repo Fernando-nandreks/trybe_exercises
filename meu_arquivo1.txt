@@ -1,0 +1,4 @@
+Para que possamos versionar alterações feitas no código é preciso sempre seguir a seguinte sequência:
+Adicionar ( add )
+Comitar ( commit -m "mensagem" )
+Os comandos ficam da seguinte forma:

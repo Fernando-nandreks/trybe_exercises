@@ -3,3 +3,4 @@ Adicionar ( add )
 Comitar ( commit -m "mensagem" )
 Os comandos ficam da seguinte forma:
 É muito divertido quando seu cérebro começa a guardar as informações que você está aprendendo. Deus é incrível... por  fazer esse ser chamado homem com a capacidade incrível. 
+Adicionando mais uma linha para encher linguiça. Lógico para ver se vai funcionar agora. Porque sestou dando meus GITS e nada acontece e quando acontece não sei o momento que deu certo porque já está atualizado e nem percebi.

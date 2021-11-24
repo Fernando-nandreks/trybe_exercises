@@ -14,7 +14,7 @@
     <br>
     <br>
 
-    <h2><strong>Dica:</strong></h2>  <br> Criação de arquivos vazios você pode utilizar o comando <code>touch nome-do-arquivo.extensao.</code><br>
+    <h2><strong>Dica:</strong></h2>  <br> Criação de arquivos vazios você pode utilizar o comando <code>touch nome-do-arquivo.extensão.</code><br>
 Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu, crie um diretório chamado unix_tests e navegue até ele.<br>
 Crie um arquivo de texto com o nome trybe.txt.<br>
 Crie uma cópia do arquivo trybe.txt com nome trybe_backup.txt.<br>
@@ -30,7 +30,7 @@ Apague o diretório backup.<br>
 Limpe o terminal.<br>
 Para os exercícios 14 e 15, crie, de forma manual na parte gráfica do seu sistema operacional (através do mouse), um arquivo de texto com o conteúdo abaixo, chamado skills.txt:<br>
    
-  <p>Você pode acessar esse link para conhecimento <a href="https://pt.wikipedia.org/wiki/Shell_do_Unix"> https://pt.wikipedia.org/wiki/Shell_do_Unix </a></p>
+  <p>Você pode acessar esse link para conhecimento <a href="https://pt.wikipedia.org/wiki/Unix#Comandos_de_manipula%C3%A7%C3%A3o_de_diret%C3%B3rio"> https://pt.wikipedia.org/wiki/Unix#Comandos_de_manipula%C3%A7%C3%A3o_de_diret%C3%B3rio </a></p>
       
 </body>
 </html>

@@ -1,12 +1,27 @@
 body {
 
-font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
-color: #1a536d;
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+    color: black; 
+    background-color: whitesmoke;
+    
 
 }
 
-h1{
+h2 {
 
     font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;    
-    color: whitesmoke;
+    color: #1a536d; 
+}
+
+
+
+code {
+
+    /*background-color: #09AA6D;
+    border-radius: 5px; */
+    color: #09AA6D;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+
+    
 }
